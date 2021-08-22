@@ -1,6 +1,6 @@
 # Text-Glitch-Effect-On-Hover
 
- Guys, I Have Made Text-Glitch-Effect-On-Hover. You Can See the Code and Learn From It.
+ Guys, I Have Made Text Glitch Effect On Hover. You Can See the Code and Learn From It.
 
 Used Languages *HTML & CSS.* 
 
